@@ -1,22 +1,23 @@
-package com.t3a3.jordichorro
+package com.jordi.chorro.tema3_actividad3
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import com.jordi.chorro.tema3_actividad3.R
+import com.t3a3.jordichorro.LoginActivity
 
 
-class LoginActivity : AppCompatActivity() {
+class BienvenidaActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.login_activity)
+        setContentView(R.layout.bienvenida_layout)
 
-        val button: Button = findViewById(R.id.button_login)
+        val button: Button = findViewById(R.id.btn_login)
         button.setOnClickListener {
 
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
             finish()
         }

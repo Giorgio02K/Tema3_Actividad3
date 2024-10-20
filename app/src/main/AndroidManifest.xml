@@ -11,6 +11,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Tema3_Actividad3"
-        tools:targetApi="31" />
+        tools:targetApi="31">
+
+        <!-- Declaración de las actividades -->
+        <activity android:name="com.jordi.chorro.tema3_actividad3.BienvenidaActivity"
+            android:exported="true">
+            <!-- Esta actividad será la principal y punto de entrada de la app -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.t3a3.jordichorro.MainActivity"
+            android:exported="true" />
+
+        <activity android:name="com.t3a3.jordichorro.LoginActivity"
+            android:exported="true" />
+
+    </application>
 
 </manifest>
