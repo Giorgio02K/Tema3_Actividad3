@@ -1,0 +1,5 @@
+com.jordi.chorro.tema3_actividad3.test.app-core-1.6.1-0 C:\Users\PC\.gradle\caches\transforms-4\0576803c8a2ddce206214f91e7fbc06f\transformed\core-1.6.1\res
+com.jordi.chorro.tema3_actividad3.test.app-androidTest-1 D:\CLASE_LOCAL\Android\Tema_3\Tema3_Actividad3\app\build\generated\res\resValues\androidTest\debug
+com.jordi.chorro.tema3_actividad3.test.app-mergeDebugAndroidTestResources-2 D:\CLASE_LOCAL\Android\Tema_3\Tema3_Actividad3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.jordi.chorro.tema3_actividad3.test.app-mergeDebugAndroidTestResources-3 D:\CLASE_LOCAL\Android\Tema_3\Tema3_Actividad3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.jordi.chorro.tema3_actividad3.test.app-debugAndroidTest-4 D:\CLASE_LOCAL\Android\Tema_3\Tema3_Actividad3\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_bank_logo
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_login
+id button_login
+id dni
+id exit_login
+id logo
+id password
+id password_toggle
+id text
+id textObligatorio
+id title
+id welcome_message
+layout activity_main
+layout bienvenida_layout
+layout login_activity
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Tema3_Actividad3
+xml backup_rules
+xml data_extraction_rules
