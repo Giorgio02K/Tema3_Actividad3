@@ -7,6 +7,7 @@ color purple_700
 color teal_200
 color teal_700
 color white
+drawable ic_avatar
 drawable ic_bank_logo
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -20,10 +21,13 @@ id password_toggle
 id text
 id textObligatorio
 id title
+id usuario
 id welcome_message
 layout activity_main
-layout bienvenida_layout
+layout bienvenida_activity
 layout login_activity
+layout movimientos_activity
+layout posicion_global_activity
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
