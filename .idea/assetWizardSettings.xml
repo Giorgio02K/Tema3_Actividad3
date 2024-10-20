@@ -23,7 +23,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio1/plugins/android/lib/android.jar!/images/material/icons/materialicons/insert_emoticon/baseline_insert_emoticon_24.xml" />
+                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/account_balance/baseline_account_balance_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -33,7 +33,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_avatar" />
+                            <entry key="outputName" value="baseline_account_balance_24" />
                             <entry key="sourceFile" value="D:\CLASE_LOCAL\Android\Tema_3\Tema3_Actividad3" />
                           </map>
                         </option>
